@@ -3,8 +3,8 @@
 ## Table of Contents:
 
 - [About](#about)
-- [Offer Letter](#offer_letter)
-- [Completion Certificate](#Completion_certificate)
+- [Offer Letter](#offer-letter)
+- [Completion Certificate](#Completion-certificate)
 - [Tasks](#tasks)
 - [License](#license)
 
