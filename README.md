@@ -24,4 +24,12 @@ My repo is about tasks which I had completed in my 4-week internship program in 
 
 ## Tasks
 
+### TASK 1: 
+
+### TASK 2:
+
+### TASK 3:
+
+### TASK 4:
+
 ## License
