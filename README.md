@@ -28,7 +28,13 @@ My repo is about tasks which I had completed in my 4-week internship program in 
 
 The primary goal is to create a model that can automatically assign one or more genres to a movie based on the textual description provided. This can be valuable for categorizing and organizing movies in databases, recommendation systems, and content filtering.
 
-### TASK 2:
+[Click here for code](task1.ipynb)
+
+### TASK 2: Credit Card Fraud Detection
+
+The primary goal is to create a model that can recognize fradulent credit card transcations so that customers are not charged for items that they didn't purchased.
+
+[Click here for code](task2.ipynb)
 
 ### TASK 3:
 
