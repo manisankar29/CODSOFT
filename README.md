@@ -36,7 +36,11 @@ The primary goal is to create a model that can recognize fradulent credit card t
 
 [Click here for code](Task2.ipynb)
 
-### TASK 3:
+### TASK 3: Customer Churn Prediction
+
+The primary goal is to create a machine learning model that can predit customers who will leave the company.
+
+[Click here for code](Task3.ipynb)
 
 ### TASK 4:
 
