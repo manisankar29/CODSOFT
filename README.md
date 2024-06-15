@@ -42,6 +42,10 @@ The primary goal is to create a machine learning model that can predit customers
 
 [Click here for code](Task3.ipynb)
 
-### TASK 4:
+### TASK 4: SMS Spam Detection
+
+The primary goal is to create a machine learning model that can predict whether the SMS is spam or not.
+
+[Click here for code](Task4.ipynb)
 
 ## License
