@@ -49,3 +49,5 @@ The primary goal is to create a machine learning model that can predict whether 
 [Click here for code](Task4.ipynb)
 
 ## License
+
+[MIT License](LICENSE)
